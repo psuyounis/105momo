@@ -1,2 +1,5 @@
+---
 layout: default
-welcome yall 
+---
+
+## Welcome to another page
